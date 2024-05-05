@@ -1,5 +1,4 @@
 import os
-os.system('pip install requirement')
 os.system('pip install random')
 os.system('pip install websocket')
 os.system('pip install websocket-client')
@@ -22,13 +21,13 @@ failed=0
 G = '\033[1;32m'
 L = '\033[1;31m'
 
-own_id= 1716443215
-tele_bot='6373870662:AAHalRTPxnj_FL1yxM3mfxygHsO5TB5asjs'
+own_id= 761058551
+tele_bot='6747180546:AAFZHgm67ggBgLn0cUr1B93zvXhHIG6c6Jg'
 ch='qwertyuioplkjhgfdsazxcvbnm'
 def create():
  global created
  global failed
- user=str(random.choice('qwertyuioplkjhgfdsazxcvbnm')[0])+str(''.join(random.choice(ch) for i in range(5)))
+ user=str(random.choice('qwertyuioplkjhgfdsazxcvbnm')[0])+str(''.join(random.choice(ch) for i in range(7)))
  
  #user='kdvdfejevfsheh'
  
