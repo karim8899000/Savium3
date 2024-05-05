@@ -1,4 +1,5 @@
 import os
+os.system('pip install requirement')
 os.system('pip install random')
 os.system('pip install websocket')
 os.system('pip install websocket-client')
