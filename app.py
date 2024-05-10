@@ -21,8 +21,8 @@ failed=0
 G = '\033[1;32m'
 L = '\033[1;31m'
 
-own_id= 761058551
-tele_bot='6747180546:AAEN9yKbJBJJskfg6-6BZT9oBd9qFUHBlw4'
+own_id= 6027519240
+tele_bot='7032789944:AAG8NPXXkAoGxAmadF3yj4VDIqYaQQvg1XM'
 ch='qwertyuioplkjhgfdsazxcvbnm'
 def create():
  global created
